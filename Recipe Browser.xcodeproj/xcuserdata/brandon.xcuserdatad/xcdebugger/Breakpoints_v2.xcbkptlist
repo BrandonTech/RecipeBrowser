@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C93EDC72-F2A9-4F4A-82DC-A3D4B68E092D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "166306C2-9297-412B-B35E-21422E0C8BBB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipe Browser/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetchMealDetails(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "166306C2-9297-412B-B35E-21422E0C8BBB - 10d3bd8dd2f6f616"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipe_Browser.APIManager.loadMealDetails(with: Swift.String) async -&gt; Recipe_Browser.MealDetails1"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "234">
+               </Location>
+               <Location
+                  uuid = "166306C2-9297-412B-B35E-21422E0C8BBB - 10d3bd8dd2f6f616"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipe_Browser.APIManager.loadMealDetails(with: Swift.String) async -&gt; Recipe_Browser.MealDetails1"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "421">
+               </Location>
+               <Location
+                  uuid = "166306C2-9297-412B-B35E-21422E0C8BBB - 10d3bd8dd2f6f616"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipe_Browser.APIManager.loadMealDetails(with: Swift.String) async -&gt; Recipe_Browser.MealDetails1"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "431">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4632057-554E-4074-AB33-FD2C3926A2C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipe Browser/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchMealDetails(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4632057-554E-4074-AB33-FD2C3926A2C4 - b005aba5f1ddf35a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Recipe_Browser.APIManager.fetchMealDetails(with: Swift.String) async throws -&gt; Recipe_Browser.Meal"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "2009">
+               </Location>
+               <Location
+                  uuid = "D4632057-554E-4074-AB33-FD2C3926A2C4 - 627a36b3cf79d421"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Recipe_Browser.APIManager.fetchMealDetails(with: Swift.String) async throws -&gt; Recipe_Browser.Meal"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "D4632057-554E-4074-AB33-FD2C3926A2C4 - 627a36b3cf79cf75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Recipe_Browser.APIManager.fetchMealDetails(with: Swift.String) async throws -&gt; Recipe_Browser.Meal"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "D4632057-554E-4074-AB33-FD2C3926A2C4 - 7cdc2031ecf6ac0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Recipe_Browser.APIManager.fetchMealDetails(with: Swift.String) async throws -&gt; Recipe_Browser.Meal"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "D4632057-554E-4074-AB33-FD2C3926A2C4 - 7cdc2031ecf6b758"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Recipe_Browser.APIManager.fetchMealDetails(with: Swift.String) async throws -&gt; Recipe_Browser.Meal"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "842">
+               </Location>
+               <Location
+                  uuid = "D4632057-554E-4074-AB33-FD2C3926A2C4 - a2ffe577e17b120b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Recipe_Browser.APIManager.fetchMealDetails(with: Swift.String) async throws -&gt; Recipe_Browser.Meal"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "33">
+               </Location>
+               <Location
+                  uuid = "D4632057-554E-4074-AB33-FD2C3926A2C4 - a2ffe577e17b095f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Recipe_Browser.APIManager.fetchMealDetails(with: Swift.String) async throws -&gt; Recipe_Browser.Meal"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "339">
+               </Location>
+               <Location
+                  uuid = "D4632057-554E-4074-AB33-FD2C3926A2C4 - 627a36b3cf79d463"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Recipe_Browser.APIManager.fetchMealDetails(with: Swift.String) async throws -&gt; Recipe_Browser.Meal"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "D4632057-554E-4074-AB33-FD2C3926A2C4 - 7cdc2031ecf6ac4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Recipe_Browser.APIManager.fetchMealDetails(with: Swift.String) async throws -&gt; Recipe_Browser.Meal"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "D4632057-554E-4074-AB33-FD2C3926A2C4 - a2ffe577e17b1249"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Recipe_Browser.APIManager.fetchMealDetails(with: Swift.String) async throws -&gt; Recipe_Browser.Meal"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "33">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CE46887-86BF-42BE-8000-D283C35A1081"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Recipe Browser/View/DessertListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "getRandomMealID(excluding:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3CE46887-86BF-42BE-8000-D283C35A1081 - 5a2d2bc4d53ffd6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Recipe_Browser.DessertListView.getRandomMealID(excluding: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/View/DessertListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "3CE46887-86BF-42BE-8000-D283C35A1081 - 27722f572a22dbaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Recipe_Browser.Dessert) -&gt; Swift.Bool in Recipe_Browser.DessertListView.getRandomMealID(excluding: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Recipe Browser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brandon/Library/Mobile%20Documents/com~apple~CloudDocs/Developer/Recipe%20Browser/Recipe%20Browser/View/DessertListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
